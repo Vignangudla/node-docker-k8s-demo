@@ -164,4 +164,4 @@ if __name__ == "__main__":
     # Simulate async call (commented out for simplicity)
     # import asyncio
     # asyncio.run(pull_docker_image(args.image))
-    logger.info("Test script execution completed")  # Tier 2: Logging
+    logger.info("Test script execution completed")  # Tier 2: Logging
